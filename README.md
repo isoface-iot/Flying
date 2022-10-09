@@ -32,3 +32,5 @@ Flying 只要是能用的印表機，都支援。包括針式印表機、鐳射�
 6. 所有印出之報表均可匯出，格式包括 PDF、JPG、HTML、XLS、RTF、CSV…等
 7. Flying 可作為PDF伺服器使用。
 8. 無需任何其它外掛程式。
+
+* **Flying 產品介紹**： https://isoface.net/isoface/production/tool/flying
