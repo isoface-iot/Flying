@@ -35,3 +35,4 @@ Flying 只要是能用的印表機，都支援。包括針式印表機、鐳射�
 
 * **Flying 產品介紹**： https://isoface.net/isoface/production/tool/flying
 * **Flying 幫助手冊**： https://isoface.net/isoface/doc/flying/main/
+* **Flying 快速上手**： https://isoface.net/isoface/study/quick-start/tars-2/flying
