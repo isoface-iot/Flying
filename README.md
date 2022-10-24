@@ -7,7 +7,7 @@
 > 
 > **點讚追蹤 Facebook 粉絲專頁**
 > 
-> [https://www.facebook.com/diylogi](https://www.facebook.com/diylogi)
+> [https://www.facebook.com/AIOT.ERP](https://www.facebook.com/AIOT.ERP)
 
 Flying 配合愛招飛系列軟體，可省下上萬元購買條碼印表機，可設定列印條碼的高度，提高掃瞄範圍，可自行設定條碼下方是否加入識別文字，以便手動輸入。配合愛招飛系列軟體的獨家條碼繪製技術，直接使用，以最快速列印，最省印表耗材的方式列印。
 
