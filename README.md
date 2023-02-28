@@ -53,4 +53,4 @@ Flying運用場景：
 
 * **Flying 產品介紹**： https://isoface.net/isoface/production/tool/flying
 * **Flying 幫助手冊**： https://isoface.net/isoface/doc/flying/main/
-* **Flying 快速上手**： https://isoface.net/isoface/study/quick-start/tars-2/flying
+* **Flying 快速上手**： https://isoface.net/isoface/study/quick-start/tool/flying
